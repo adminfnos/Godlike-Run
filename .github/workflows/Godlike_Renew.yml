@@ -1,6 +1,7 @@
 name: Godlike 续期
 on:
   schedule:
+      - cron: ''
   workflow_dispatch:
 
 jobs:
